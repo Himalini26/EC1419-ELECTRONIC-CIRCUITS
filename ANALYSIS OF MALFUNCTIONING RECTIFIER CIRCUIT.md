@@ -1,12 +1,11 @@
-<img width="933" height="731" alt="image" src="https://github.com/user-attachments/assets/20119815-63e3-4350-a97b-2f9740c2e926" />
-<img width="885" height="762" alt="image" src="https://github.com/user-attachments/assets/8ff0fee1-9cdb-46ec-ad3d-8aaeb8821608" />
-<img width="706" height="280" alt="image" src="https://github.com/user-attachments/assets/a946feda-fee6-4986-95a0-f647f30af0c1" />
-<img width="811" height="708" alt="image" src="https://github.com/user-attachments/assets/e0caa2dd-cc57-4642-987f-53e4f8f78903" />
-
-
-## ATTACH THE CORRECT CIRCUIT
-
-## GRAPHS
-
-
-<img width="936" height="122" alt="image" src="https://github.com/user-attachments/assets/2d2e2399-6a9f-49ec-b40c-3c2982d4b82c" />
+## AIM
+<img width="1600" height="440" alt="image" src="https://github.com/user-attachments/assets/d5b9d517-0037-4563-afef-02d15603a6c1" />
+## APPARATUS REQUIRED
+<img width="1600" height="1122" alt="image" src="https://github.com/user-attachments/assets/bbbabc00-5b76-490f-99ce-dd5f0cc01b28" />
+## CIRCUIT DIAGRAM
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/9adccb8d-8bba-445b-a7dc-2d62e4ab49a9" />
+## PROCEDURE
+<img width="1600" height="933" alt="image" src="https://github.com/user-attachments/assets/0255c66d-a227-4d13-bcaf-79f834e9b12d" />
+<img width="1500" height="1469" alt="image" src="https://github.com/user-attachments/assets/a4c9ce45-7646-4035-8dd6-c7be76c90acd" />
+## RESULT
+<img width="1600" height="902" alt="image" src="https://github.com/user-attachments/assets/4f8a3cc8-9d39-4889-a94f-c9d8706ba264" />
