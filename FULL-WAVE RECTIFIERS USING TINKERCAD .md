@@ -1,9 +1,13 @@
-<img width="882" height="720" alt="image" src="https://github.com/user-attachments/assets/c3529be3-8921-4560-9828-e64489a9e0fe" />
-<img width="386" height="342" alt="image" src="https://github.com/user-attachments/assets/f5dfaefa-ffbe-4b2b-a06c-f26e75f87096" />
-<img width="727" height="500" alt="image" src="https://github.com/user-attachments/assets/87e0de1d-b37c-4f12-ab6e-55a24b43fb41" />
-<img width="780" height="486" alt="image" src="https://github.com/user-attachments/assets/dd542be5-c72c-4113-9e2a-b587b8f572b5" />
-
-
-## TINKER CAD CIRCUIT DIAGRAM
-
-<img width="860" height="227" alt="image" src="https://github.com/user-attachments/assets/2cd08752-9469-424d-8283-a306c0ccac15" />
+## AIM
+<img width="1600" height="776" alt="image" src="https://github.com/user-attachments/assets/4a86a0ee-23c4-4225-9c1f-e0c51bc325a9" />
+## CIRCUIT DIAGRAM
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/20a5204c-9aef-4de4-a664-08a326f08151" />
+## PROCEDURE
+<img width="1464" height="1489" alt="image" src="https://github.com/user-attachments/assets/0d6ce5e9-b7d2-4863-b9df-efd685ff5bcb" />
+## MODEL GRAPH
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/9f8b7ccd-e128-4fcd-a7f9-a3f27d4220b0" />
+## TABULATION
+<img width="1500" height="1323" alt="image" src="https://github.com/user-attachments/assets/b598ead6-3441-456c-8275-eed9f350bd7b" />
+<img width="1500" height="1427" alt="image" src="https://github.com/user-attachments/assets/4439f9cb-1f62-42aa-9bca-b98078fac105" />
+## RESULT
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/02e7d9b5-8ce9-4d4c-9c60-df162db8f02f" />
